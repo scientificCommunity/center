@@ -1,8 +1,8 @@
 {
   "schema": "baby-care-domain-host-config.v1",
   "cipher": "AES-256-GCM",
-  "nonce": "9su6XHZ/Fp9sL/bk",
-  "ciphertext": "LeyW8YggvGtZHLU87xNtJGL4wwzoIZ93Eu1rJwtyb/Wsy4MauTctGJGLi8N7i6PZV3nAoh/qFd5OhDHZ7P0QRXy8i24uAnTUi3/JTXgUH0iXy0CwJKvdJ1fDBd4LOg3Xk54yCTk=",
-  "mac": "9e20Hk0lahaIeFObORRIVA==",
-  "signature": "Pf98rO9Jtqr3vUq+Mz7x/bPvs3KIvZdXK3yaMQArdQakvbG2yCrMsUvmY6AVQBai2AS/vojYI3fW9J87cRM9Aw=="
+  "nonce": "3u18aQ1Qc5/B7eZ1",
+  "ciphertext": "aEa8kXHU+kUkI3WNTxJxmTW0+hslWEWFncG24LaS03Kqsnf1g3wbk00eYgFXn80JIPRXGKHWlyR0GeyukGPb/Mw9gN4idSfi1lo/gRLSEt4JLgcVeEn6sZbrAJ7R+6LqN8bX3tG7gB5QuU8=",
+  "mac": "9bBYLqtm9KyOi6c83UWo6A==",
+  "signature": "flrsc/9TRzcU6QoWs69ypYZRi/LmIbXO29Bwpq5aGeggbKSROxYwdCxHjNsNAOIJUZCpOC9GI/mMgLcnu0o7Aw=="
 }
